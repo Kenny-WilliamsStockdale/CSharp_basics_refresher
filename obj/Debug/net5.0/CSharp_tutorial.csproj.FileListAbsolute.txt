@@ -1,0 +1,15 @@
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/bin/Debug/net5.0/CSharp_tutorial.deps.json
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/bin/Debug/net5.0/CSharp_tutorial.runtimeconfig.json
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/bin/Debug/net5.0/CSharp_tutorial.runtimeconfig.dev.json
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/bin/Debug/net5.0/CSharp_tutorial.dll
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/bin/Debug/net5.0/ref/CSharp_tutorial.dll
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/bin/Debug/net5.0/CSharp_tutorial.pdb
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.csproj.AssemblyReference.cache
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.AssemblyInfoInputs.cache
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.AssemblyInfo.cs
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.csproj.CoreCompileInputs.cache
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.dll
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/ref/CSharp_tutorial.dll
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.pdb
+/Users/kennystockdale/RiderProjects/CSharp_tutorial/obj/Debug/net5.0/CSharp_tutorial.genruntimeconfig.cache

@@ -7,7 +7,13 @@ namespace CSharp_tutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Test");
+            Console.WriteLine("     /|");
+            Console.WriteLine("    / |");
+            Console.WriteLine("   /  |");
+            Console.WriteLine("  /   |");
+            Console.WriteLine(" /    |");
+            Console.WriteLine("/_ _ _|");
+            Console.ReadLine();
         }
     }
 }

@@ -14,7 +14,7 @@ namespace CSharp_tutorial
             Console.WriteLine("  /   |");
             Console.WriteLine(" /    |");
             Console.WriteLine("/_ _ _|");
-            Console.ReadLine();
+            // Console.ReadLine();
             
             //Variables
             //with small story
@@ -27,7 +27,31 @@ namespace CSharp_tutorial
             Console.WriteLine("But didn't like being " + characterAge);
             Console.ReadLine();
 
+            //Datatypes with variables
+            //core datatypes
 
+            //syntax
+            //for core datatypes
+            
+            //string
+            string phrase = "string of text"; 
+            //char only has one character
+            char grade = 'A';
+            //integer whole number + or -
+            int number = 30;
+            // float,double, decimal. All for use in accurate numbers/precision. Decimal being the most accurate.
+            //example
+            double money = 5.50;
+            //boolean true or false information
+            bool isAlive = true;
+            
+            // printing to console for check
+            Console.WriteLine(phrase);
+            Console.WriteLine(grade);
+            Console.WriteLine(number);
+            Console.WriteLine(money);
+            Console.WriteLine(isAlive);
+            Console.ReadLine();
         }
     }
 }

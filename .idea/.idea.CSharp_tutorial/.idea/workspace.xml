@@ -10,6 +10,10 @@
     <list default="true" id="543e8bc7-8e12-4eef-a670-658461006d10" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_tutorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp_tutorial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp_tutorial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp_tutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp_tutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp_tutorial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp_tutorial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp_tutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp_tutorial.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
